@@ -23,8 +23,8 @@ const PostCard = ({posts}) => {
               {post.excerpt}
               <br />
               <br />
-              <Link className='button is-small' to={post.fields.slug}>
-                                Keep Reading →
+              <Link className='button is-small' to={post.fields.slug} rel='nofollow'>
+                                Czytaj dalej →
               </Link>
             </p>
           </div>
