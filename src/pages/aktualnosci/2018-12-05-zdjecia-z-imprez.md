@@ -4,8 +4,8 @@ title: Zdjęcia z imprez
 date: 2018-12-05T16:39:01.244Z
 cover: /img/products-grid3.jpg
 meta_title: Lorem Ipsum Dolor Situm
-meta_description: >- 
-Szukasz zdjęć z imprezy? Zobacz jak się bawimy! :)
+meta_description: >-
+  Szukasz zdjęć z imprezy? Zobacz jak się bawimy! :)
 tags:
   - zdjęcia
 ---
