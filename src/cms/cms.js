@@ -8,7 +8,7 @@ import ContactPagePreview from './preview-templates/ContactPagePreview'
 
 CMS.registerPreviewStyle('/styles.css')
 CMS.registerPreviewTemplate('home', HomePagePreview)
-CMS.registerPreviewTemplate('about', AboutPagePreview)
-CMS.registerPreviewTemplate('pricing', PricingPagePreview)
-CMS.registerPreviewTemplate('contact', ContactPagePreview)
-CMS.registerPreviewTemplate('blog', ArticlePreview)
+CMS.registerPreviewTemplate('mary-jane-razor', AboutPagePreview)
+CMS.registerPreviewTemplate('uslugi', PricingPagePreview)
+CMS.registerPreviewTemplate('kontakt', ContactPagePreview)
+CMS.registerPreviewTemplate('aktualnosci', ArticlePreview)
