@@ -10,6 +10,7 @@ const Offerings = ({ gridItems }) => (
             <img alt='' src={item.image} />
           </p>
           <p>{item.text}</p>
+          <p><a href={item.url}>{item.anchor}</a></p>
         </section>
       </div>
     ))}
@@ -21,6 +22,8 @@ Offerings.propTypes = {
     PropTypes.shape({
       image: PropTypes.string,
       text: PropTypes.string,
+      url: PropTypes.string,
+      anchor: PropTypes.string,
     })
   ),
 }

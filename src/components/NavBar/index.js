@@ -32,13 +32,13 @@ const NavBar = ({toggleNavbar, isActive}) => (
           <div className='navbar-end'>
             <SearchBox searchIndex={data.siteSearchIndex.index} />
             <Link className='navbar-item' to='/about'>
-                            About
+                            Mary Jane Razor
             </Link>
             <Link className='navbar-item' to='/pricing'>
-                            Pricing
+                            Usługi
             </Link>
             <Link className='navbar-item' to='/blog'>
-                            Blog
+                            Aktualności
             </Link>
             <div className='navbar-item'>
               <div className='field is-grouped'>
@@ -46,7 +46,7 @@ const NavBar = ({toggleNavbar, isActive}) => (
                   <Link
                     className='button is-primary is-outlined'
                     to='/contact'>
-                            Contact Us
+                            Kontakt
                   </Link>
                 </p>
               </div>
