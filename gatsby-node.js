@@ -21,7 +21,7 @@ exports.createPages = ({actions, graphql}) => {
               cover
               tags
               templateKey
-              date(formatString: "MMMM DD, YYYY")
+              date(formatString: "DD-MM-YYYY")
             }
           }
         }

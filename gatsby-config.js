@@ -175,7 +175,7 @@ module.exports = {
                               title
                               templateKey
                               cover
-                              date(formatString: "MMMM DD, YYYY")
+                              date(formatString: "DD-MM-YYYY")
                               tags
                             }
                           }
