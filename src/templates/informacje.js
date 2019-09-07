@@ -64,8 +64,8 @@ export default class BlogPage extends Component {
           <PostCard posts={group} />
           <section className='section'>
             <div className='buttons is-centered'>
-              <PaginationLink test={first} url={previousUrl} text='Previous Page' />
-              <PaginationLink test={last} url={nextUrl} text='Next Page' />
+              <PaginationLink test={first} url={previousUrl} text='Poprzednia strona' />
+              <PaginationLink test={last} url={nextUrl} text='Następna strona' />
             </div>
           </section>
         </section>
