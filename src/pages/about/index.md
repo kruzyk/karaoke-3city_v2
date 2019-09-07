@@ -21,3 +21,5 @@ Posiadam doświadczenie w prowadzeniu wesel wraz z zespołem weselnym.
 ## Jak prowadzę karaoke?
 
 Najlepiej przekonać się przychodząc na imprezę :)
+
+![Zdjęcie prowadzącej karaoke w Gdańsku](/img/10382856_1768425663385368_2320758029078343954_n.jpg "Mary Jane Razor")
