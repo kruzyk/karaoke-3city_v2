@@ -50,9 +50,9 @@ collections:
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: "Meta Title", name: "meta_title", widget: "string"}
           - {label: "Meta Description", name: "meta_description", widget: "text"}
-  - name: "aktualnosci"
+  - name: "informacje"
     label: "Aktualności"
-    folder: "src/pages/aktualnosci"
+    folder: "src/pages/informacje"
     create: true
     slug: "{{slug}}"
     fields:
