@@ -65,15 +65,15 @@ class ContactPageTemplate extends Component {
         <section className='section'>
           <div className='container'>
             <form
-              name='contact'
+              name='kontakt'
               method='post'
-              action='/contact/success'
+              action='/kontakt/success'
               encType='application/x-www-form-urlencoded'
               data-netlify='true'
               data-netlify-honeypot='bot-field'
               onSubmit={this.handleSubmit}
             >
-              <input type='hidden' name='form-name' value='contact' />
+              <input type='hidden' name='form-name' value='kontakt' />
               <div hidden>
                 <label>
                   Nie wypełniaj tego:{' '}
