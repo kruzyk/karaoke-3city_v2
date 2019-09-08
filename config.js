@@ -8,7 +8,7 @@ module.exports = {
   siteRss: '/rss.xml',
   siteFBAppID: '', // FB Application ID for using app insights
   googleTagManagerID: '', // GTM tracking ID.
-  disqusShortname: 'gatsby-business-starter', // Disqus shortname.
+  disqusShortname: 'mary-jane-razor-karaoke', // Disqus shortname.
   userName: 'Mary Jane Razor',
   userTwitter: 'Mary Jane Razor',
   userLocation: 'Gdansk, Poland',
