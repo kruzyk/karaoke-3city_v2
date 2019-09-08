@@ -16,7 +16,7 @@ const TagsPage = ({
             <div className='column is-10 is-offset-1'>
               <div className='section'>
                 <h1 className='title'>
-                                    Tags
+                                    Tagi
                 </h1>
               </div>
             </div>
@@ -34,7 +34,7 @@ const TagsPage = ({
             <ul className='taglist'>
               {group.map(tag => (
                 <li key={tag.fieldValue}>
-                  <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                  <Link to={`/tagi/${kebabCase(tag.fieldValue)}/`}>
                     {tag.fieldValue} ({tag.totalCount})
                   </Link>
                 </li>
