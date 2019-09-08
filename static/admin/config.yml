@@ -35,7 +35,7 @@ collections:
         label: "Usługi"
         name: "uslugi"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "pricing-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "uslugi"}
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
@@ -45,7 +45,7 @@ collections:
         label: "Kontakt"
         name: "kontakt"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "contact-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kontakt"}
           - {label: Tytuł, name: title, widget: string}
           - {label: Podtytuł, name: subtitle, widget: string}
           - {label: "Meta Title", name: "meta_title", widget: "string"}

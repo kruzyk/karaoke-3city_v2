@@ -1,7 +1,7 @@
 ---
-templateKey: 'contact-page'
+templateKey: 'kontakt'
 title: Kontakt
-subtitle: We'd Love To Help You, Feel Free To Drop A Mail
+subtitle: Z przyjemnością Ci pomogę, napisz jeżeli masz jakąs sprawę
 meta_title: Kontakt | Mary Jane Razor
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur

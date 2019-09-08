@@ -1,5 +1,5 @@
 ---
-templateKey: pricing-page
+templateKey: uslugi
 title: Usługi
 image: /img/12698616_1560534740904505_542198214049005302_o.jpg
 pricing:

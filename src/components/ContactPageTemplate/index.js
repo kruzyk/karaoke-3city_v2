@@ -76,14 +76,14 @@ class ContactPageTemplate extends Component {
               <input type='hidden' name='form-name' value='contact' />
               <div hidden>
                 <label>
-                  Don’t fill this out:{' '}
+                  Nie wypełniaj tego:{' '}
                   <input name='bot-field' onChange={this.handleChange} />
                 </label>
               </div>
               <div className='field'>
-                <label className='label'>Name</label>
+                <label className='label'>Imię</label>
                 <div className='control'>
-                  <input className='input' type='text' placeholder='Full Name' name='name' id='name' onChange={this.handleChange} />
+                  <input className='input' type='text' placeholder='Twoje imię' name='name' id='name' onChange={this.handleChange} />
                 </div>
               </div>
 
@@ -95,18 +95,18 @@ class ContactPageTemplate extends Component {
               </div>
 
               <div className='field'>
-                <label className='label'>Message</label>
+                <label className='label'>Wiadomość</label>
                 <div className='control'>
-                  <textarea className='textarea' placeholder='Message' name='message' id='message' rows='6' onChange={this.handleChange} />
+                  <textarea className='textarea' placeholder='Wiadomość' name='message' id='message' rows='6' onChange={this.handleChange} />
                 </div>
               </div>
 
               <div className='field is-grouped is-pulled-right'>
                 <div className='control'>
-                  <button className='button is-text' type='reset'>Cancel</button>
+                  <button className='button is-text' type='reset'>Anuluj</button>
                 </div>
                 <div className='control'>
-                  <button className='button is-primary' type='submit' disabled={(!this.state.name) || (!this.state.email) || (!this.state.message)}>Submit</button>
+                  <button className='button is-primary' type='submit' disabled={(!this.state.name) || (!this.state.email) || (!this.state.message)}>Wyślij</button>
                 </div>
               </div>
             </form>
