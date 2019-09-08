@@ -8,7 +8,7 @@ const TagsPage = ({
   data: { allMarkdownRemark: { group }, site: { siteMetadata: { title } } },
 }) => (
   <Layout>
-    <Helmet title={`Tags | ${title}`} />
+    <Helmet title={`Tagi | ${title}`} />
     <section className='hero is-primary is-bold is-medium'>
       <div className='hero-body'>
         <div className='container'>
