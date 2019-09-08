@@ -1,23 +1,22 @@
 ---
 templateKey: article-page
 title: Zasady na imprezach karaoke
+slug: zasady na imprezach karaoke
 date: 2018-11-19T15:04:10.000Z
-cover: /img/products-grid3.jpg
-meta_title: Lorem Ipsum Dolor Situm
+cover: /img/5492170469_5154f67770_b.jpg
+tags:
+  - zasady
+meta_title: Zasady na imprezach karaoke
 meta_description: >-
   Impreza karaoke, tak jak każdy inny typ imprezy rządzi się swoimi prawami.
   Warto poznać zasady panujące podczas takiej zabawy żeby samemu się świetnie
   bawić ale też nie psuć zabawy innym.
-tags:
-  - zasady
 ---
-![mikrofon przygotowany do występu karaoke](/img/5492170469_5154f67770_b.jpg)
-
-## Co to dla Ciebie oznacza
-
 Impreza karaoke, tak jak każdy inny typ imprezy rządzi się swoimi prawami.
 Warto poznać zasady panujące podczas takiej zabawy żeby samemu się świetnie
 bawić ale też nie psuć zabawy innym.
+
+## Co to dla Ciebie oznacza
 
 Szykując się na imprezę oczywistym jest, że należy wziąć ze sobą świetny humor i dobre nastawienie. Warto jednak pomyśleć wcześniej też o innych sprawach:
 
