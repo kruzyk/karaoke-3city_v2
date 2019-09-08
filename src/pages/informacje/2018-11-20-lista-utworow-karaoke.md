@@ -1,16 +1,17 @@
 ---
 templateKey: article-page
 title: Lista utworów karaoke
+slug: lista-utworow-karaoke
 date: 2018-11-20T13:57:10.000Z
-cover: /img/products-grid3.jpg
-meta_title: Lorem Ipsum Dolor Situm
+cover: /img/12698616_1560534740904505_542198214049005302_o.jpg
+tags:
+  - lista karaoke
+meta_title: Lista utworów karaoke
 meta_description: >-
   Sprawdź, które polskie i zagraniczne podkłady karaoke posiadam. 
 
   Znajdź swoją piosenkę i przyjdź na jedną z imprez, którą prowadzę zapisać się
   na listę wykonawców.
-tags:
-  - lista karaoke
 ---
 Sprawdź, które polskie i zagraniczne podkłady karaoke posiadam. 
 
