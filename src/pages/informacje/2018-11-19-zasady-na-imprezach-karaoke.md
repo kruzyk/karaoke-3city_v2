@@ -1,7 +1,7 @@
 ---
 templateKey: article-page
 title: Zasady na imprezach karaoke
-slug: zasady na imprezach karaoke
+slug: zasady-na-imprezach-karaoke
 date: 2018-11-19T15:04:10.000Z
 cover: /img/5492170469_5154f67770_b.jpg
 tags:
