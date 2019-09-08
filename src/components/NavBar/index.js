@@ -38,7 +38,7 @@ const NavBar = ({toggleNavbar, isActive}) => (
                             Usługi
             </Link>
             <Link className='navbar-item' to='/informacje'>
-                            Aktualności
+                            Informacje
             </Link>
             <div className='navbar-item'>
               <div className='field is-grouped'>
