@@ -16,9 +16,7 @@ class TagRoute extends Component {
     const tag = this.props.pageContext.tag
     const title = this.props.data.site.siteMetadata.title
     const totalCount = this.props.data.allMarkdownRemark.totalCount
-    const tagHeader = `${totalCount} post${
-      totalCount === 1 ? '' : 's'
-    } post${ totalCount.toString().endsWith() === '2' || totalCount.toString().endsWith() === '3' || totalCount.toString().endsWith() === '4' ? 'ty' : 'ów'} 
+    const tagHeader = `${totalCount} post${ totalCount === 1 ? '' : totalCount.toString().endsWith() === '2' || totalCount.toString().endsWith() === '3' || totalCount.toString().endsWith() === '4' ? 'ty' : 'ów'} 
     dla tagu “${tag}”`
 
     return (
