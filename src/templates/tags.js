@@ -18,7 +18,8 @@ class TagRoute extends Component {
     const totalCount = this.props.data.allMarkdownRemark.totalCount
     const tagHeader = `${totalCount} post${
       totalCount === 1 ? '' : 's'
-    } tagged with “${tag}”`
+    } post${ totalCount.toString().endsWith() === '2' || totalCount.toString().endsWith() === '3' || totalCount.toString().endsWith() === '4' ? 'ty' : 'ów'} 
+    dla tagu “${tag}”`
 
     return (
       <Layout>
@@ -33,7 +34,7 @@ class TagRoute extends Component {
                 <h3 className='title is-size-4 is-bold-light'>{tagHeader}</h3>
                 <ul className='taglist'>{postLinks}</ul>
                 <p>
-                  <Link to='/tags/'>Browse all tags</Link>
+                  <Link to='/tagi/'>Przeglądaj wszystkie tagi</Link>
                 </p>
               </div>
             </div>
