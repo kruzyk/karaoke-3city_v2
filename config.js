@@ -6,8 +6,8 @@ module.exports = {
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
   siteDescription: 'Najlepsze karaoke w Gdańsku, Sopocie i Gdyni. Prowadzenie imprez w trójmieście.', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml',
-  siteFBAppID: '', // FB Application ID for using app insights
-  googleTagManagerID: '', // GTM tracking ID.
+  siteFBAppID: '1532350353722944', // FB Application ID for using app insights
+  googleTagManagerID: 'GTM-PV9596M', // GTM tracking ID.
   disqusShortname: 'mary-jane-razor-karaoke', // Disqus shortname.
   userName: 'Mary Jane Razor',
   userTwitter: 'Mary Jane Razor',
